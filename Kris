@@ -1,0 +1,214 @@
+<!DOCTYPE html>
+<html >
+<head>
+    <style>
+.img1{
+ position:absolute;
+ left:400px;
+ top:21px;
+    display: block;
+    width:185px;
+    height:36px
+}
+header{
+    width: 2011px;
+    background: #007765;
+    height: 85px;
+    color: rgb(255, 255, 255);
+}
+.ppt{
+    position:absolute;
+    top:21px;
+    height: 29px;
+    left: 1162px;
+    color: rgb(250, 250, 250);
+}
+.img2{
+    display: block;
+    width: 2011px;
+    height: 403px;
+    top: 84px;
+}
+.text1{
+    position:absolute;
+    font-family:'Roboto' ;
+    left: 560px;
+    top:190px;
+    color: rgb(255, 255, 255);
+    font-size: 72px;
+    text-align: center;
+}
+.fon2{
+    Width: 2011px;
+    Height: 403px; 
+}
+a{
+    color: white;
+    text-decoration: none;
+}
+.zag{
+    Width:1600px;
+    Height:20px;
+    text-align: center;
+    color: #007765;
+    font-size: 64px;
+}
+.text3{   
+  width: 1086px; 
+   text-align: left;
+  border: 1px solid rgb(255, 252, 252); 
+  padding:  20px  68px 50px 350px  ; 
+  font-family: sans-serif; 
+  font-size: 32px; 
+  color: rgb(0, 0, 0); 
+  overflow: auto;
+}
+.fon3{
+    width: 2011px;
+    height: 483px;
+}
+.We’refon3{
+    position: absolute;
+    width: 780px;
+    height: 218px;
+    top: 1334px;
+    left: 420px;
+    text-align: center;
+    font-size: 48px;
+    color: rgb(255, 255, 255);
+}
+.intpie{
+    font-size: 64px;
+    color:#007765 ;
+   width: 1700px;
+   height: 25px;
+    text-align: center;
+}
+.logo{
+   width: 115px;
+   height: 115px;
+position:absolute;
+left: 350px;
+top: 1905px;
+}
+.piedpi1{
+    position: absolute;
+    font-size: 32px;
+   width: 930px;
+   height: 110px;
+   left: 495px;
+}
+.piedpi2{
+    position: absolute;
+    font-size: 32px;
+width:1000px;
+height: 150px;
+top:2010px;
+left: 350px;
+}
+.theteaem1{
+    position: absolute;
+    top: 2320px;
+    left: 720px;
+    color: #007765;
+    font-size: 64px;
+}
+.Richard{
+position: absolute;
+top: 2550px;
+left: 400px;
+color:#007765;
+text-align: center;
+}
+.Dinesh{
+    position: absolute;
+    top: 2550px;
+    left: 780px;
+    color:#007765;
+    text-align: center;
+}
+.Bertram{
+    position: absolute;
+    top: 2550px;
+    left: 1150px;
+    color:#007765;
+    text-align: center;
+}
+.Jared{
+    position: absolute;
+    top: 2840px;
+    left: 400px;
+    color:#007765;
+    text-align: center;
+}
+.Monica{
+    position: absolute;
+    top: 2840px;
+    left: 780px;
+    color:#007765;
+    text-align: center;
+}
+.Nelson{
+    position: absolute;
+    top: 2840px;
+    left: 1150px;
+    color:#007765;
+    text-align: center;
+}
+.footer{
+    position: absolute;
+    top: 3140px;
+    width: 2011px;
+    background: #333333;
+    height: 176px;
+    
+}
+i{
+    color: black;
+}
+.allother{
+    font-size: 18px;
+    position: absolute;
+    color: #FFFFFF;
+    left: 618px;
+}
+    </style>
+    <title>Pied Pipier</title>
+</head>
+<body>
+    <header>
+        <img class="img1" src="fotoX/Pied Pipier/logo.png">
+        <p class="ppt"><a href="#theprobl">the problem|</a><a href="#piedp">PiedPiperCoin|</a><a href="#theteam">the team</a></p>
+    </header>
+    <img class="fon2" src="fotoX/Pied Pipier/image-8.png">
+    <h1 class="text1" >PiperNet Is Here</h1>
+    <h2 align="center" id="theprobl" class="zag"> The Problem</h2>
+  <div class="text3">
+    <p>Beneath the flashy homepages of your favorite sites lurk Hooli™ and other evil<br>corporations out to hoard and sell your most personal data.</p>
+
+       <p>What was built to be the ultimate platform for the free sharing of knowledge<br> has turned into a money-hungry monster feasting on our privacy and<br> freedom.</p> 
+        
+        <p>But fear not, for Pied Piper has the answer! And it’s simple:<br>
+        An autonomous peer-to-peer network featuring distributed storage powered<br> by universal compression, accelerated scheduling allocation, and end-to-end<br> encryption.</p>
+        
+        <p>Put even simpler — <b>it’s the internet, completely decentralized.</b></p>
+       </div> 
+       <img class="fon3" src="fotoX/Pied Pipier/image-9.png">
+       <p class="We’refon3"> We’re in this together! All of our computers and phones join in a network to make the strongest supercomputer the world has ever seen.</p>
+       <h2 id="piedp" class="intpie">Introducing PiedPiperCoin</h2>
+       <img class="logo" src="fotoX/Pied Pipier/PPC Logo.png" > 
+       <p class="piedpi1">Pied Piper's new internet is built <i>for users, by users.</i><br> You supply the storage, compute, and networking resources that power our entire decentralized web.</p>
+       <p class="piedpi2">Now there's a way to give credit where credit is due. Compute credit, that is!The more you share your device resources, the more PiedPiperCoin you receive.<br> Whether you're a developer with an app ready for market, or just an Average Joe with a smartphone you'll love all you can do with PiedPiperCoin.</p>
+       <h2 id="theteam" class="theteaem1">The Team</h2>
+    <div class="Richard" ><img src="fotoX/Pied Pipier/image-10.png"><figcaption><b>Richard Hendricks</b><br><i>Founder & CEO</i></figcaption></div>
+    <div class="Dinesh"><img  src="fotoX/Pied Pipier/image-14.png"><figcaption><b>Dinesh Chugtai</b><br><i>Senior Programmer</i></figcaption></div> 
+    <div class="Bertram"><img  src="fotoX/Pied Pipier/image-15.png"><figcaption><b>Bertram Gilfoyle</b><br><i>Chief Systems Architect</i></figcaption></div>  
+    <div class="Jared"><img  src="fotoX/Pied Pipier/image-11.png"><figcaption><b>Jared Dunn</b><br><i>Chief Operating Officer</i></figcaption></div>
+    <div class="Monica"> <img  src="fotoX/Pied Pipier/image-12.png"><figcaption><b>Monica Hall</b><br><i>Chief Financial Officer</i></figcaption></div>
+    <div class="Nelson"><img  src="fotoX/Pied Pipier/image-13.png"><figcaption><b>Nelson Bighetti</b><br><i>Majority Investor</i></figcaption></div>
+    <div class="footer"> <p align="center" class="allother">All other trademarks and copyrights are the property of their <br>respective owners. Use of these names, trademarks and brands<br> does not imply endorsement.</p></div>
+</body>
+</html>
+© 2022 GitHub, Inc.
+Terms
+Privacy
